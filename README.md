@@ -1,5 +1,17 @@
 # Happening - Event Discovery & Booking App
 
+please watch the introductory video here: 
+
+https://www.loom.com/share/b1f80961eb75475d9f6db66a500edaae?sid=0a93e6d7-31ef-4bb1-9a18-bfd36ec46045
+
+You can install the apk file from here:
+
+[text](../../Downloads/application-a5f14aa4-ad01-4276-8076-c163f259c4ac.apk)
+
+or from this link: 
+
+https://expo.dev/accounts/musaid1234/projects/plurit-happening-app/builds/a5f14aa4-ad01-4276-8076-c163f259c4ac
+
 Welcome to Happening, a modern cross-platform mobile application built with React Native and Expo. This app provides a seamless experience for discovering and booking events, with features like dark mode support, intuitive navigation, and a rich user interface.
 
 ![alt text](iPhone-12-PRO-MAX-localhost.png)
@@ -219,3 +231,38 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Built with ❤️ by the Happening Team
 
+All the pictures of the app:
+
+![alt text](<iPhone-12-PRO-MAX-localhost (1).png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (2)-1.png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (3).png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (4).png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (5).png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (6).png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (7).png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (8).png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (9).png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (10)-1.png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (11).png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (12).png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (13).png>)
+
+![alt text](<iPhone-12-PRO-MAX-localhost (14).png>)
+
+![alt text](iPhone-12-PRO-MAX-localhost-2.png)
+
+![alt text](<iPhone-13-PRO-localhost (2).png>)
+
+the same readme.md file is posted on github repository
